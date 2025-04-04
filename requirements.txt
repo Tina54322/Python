@@ -1,1 +1,7 @@
 pyinputplus
+numpy
+pandas
+xgboost
+deap
+scipy
+h5py
