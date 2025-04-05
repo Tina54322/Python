@@ -5,4 +5,4 @@ xgboost
 deap
 scipy
 h5py
-pandas
+scikit-learn
