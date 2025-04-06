@@ -6,3 +6,4 @@ deap
 scipy
 h5py
 scikit-learn
+numpy
